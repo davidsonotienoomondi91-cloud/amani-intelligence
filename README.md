@@ -1,6 +1,6 @@
 # Amani Intelligence 🕊️
 
-**AI-powered early-warning system for conflict and Gender-Based ![IMG-20251006-WA0005(1)](https://github.com/user-attachments/assets/df616e41-b93b-4343-acd2-cffc44ffcecb)
+**AI-powered early-warning system for conflict and Gender-Based ![interface](https://github.com/user-attachments/assets/df616e41-b93b-4343-acd2-cffc44ffcecb)
 Violence (GBV) prevention in Kenya.**
 
 ---
